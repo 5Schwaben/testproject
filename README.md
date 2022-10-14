@@ -6,4 +6,6 @@ Hier gibt es **nix** zu installieren.
 ## Meine To-Dos:
 [x] Readme befüllen
 
+[ ] Merge üben
+
 [ ] anderes ausprobieren
